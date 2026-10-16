@@ -1,39 +1,22 @@
 # Mohammadreza Moradzadeh
 
-### Flutter Developer
+Flutter/Dart developer and electrical engineer (M.Sc., Control) based in Tehran.
+I build cross-platform apps with layered architecture, offline-first storage and
+automated tests, and I'm growing into native iOS development with Swift.
 
-Flutter developer based in Tehran, focused on building clean, maintainable mobile
-applications with modern state management, REST API integration, and offline-first
-storage.
+## Featured projects
 
----
+| Project | What it shows |
+|---|---|
+| [Veliq](https://github.com/moradzadeh67/veliq) | Flutter + Swift/Kotlin via pigeon, on-device OCR, hand-written BLoC, 199 tests |
+| [Classic Code Editor](https://github.com/moradzadeh67/classic-code-editor) | macOS IDE with LSP, OOP debugger design, 119 tests |
+| [Credo](https://github.com/moradzadeh67/credo) | Secure key storage (Keychain/Keystore), Provider, REST API, live web demo |
+| [Country Info Sync](https://github.com/moradzadeh67/country_info_sync) | Offline-first 3-tier data fallback, Hive, Android/iOS/macOS/Web |
+| [MCP SSD Weather](https://github.com/moradzadeh67/mcp_ssd_weather) | Spec-driven build, layered architecture, 59 tests |
 
-## Tech Stack
+Several projects were built with AI coding agents under my own specifications
+and code review; each README documents the process.
 
-- **Language:** Dart
-- **Framework:** Flutter
-- **State Management:** BLoC / Cubit, Provider
-- **Backend / Services:** Firebase, REST APIs
-- **Storage:** Hive, SharedPreferences
-- **Tools:** Git, GitHub, Postman
+**Stack:** Dart, Flutter, Swift/Kotlin native bridges, Python, JavaScript, Git, GitHub Actions
 
----
-
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [weather_db_api_spare](https://github.com/moradzadeh67/weather_db_api_spare) | Flutter weather app with clean architecture, offline caching, and modern state management. |
-| [financial_management_app](https://github.com/moradzadeh67/financial_management_app) | Personal finance management app with structured models and clean UI. |
-| [phonebook_api](https://github.com/moradzadeh67/phonebook_api) | Contact management app powered by a REST API, with custom widgets and screens. |
-| [quizz_like_application](https://github.com/moradzadeh67/quizz_like_application) | Quiz application with an organized structure and reusable components. |
-| [blog_club](https://github.com/moradzadeh67/blog_club) | Multi-platform blog app (web, desktop, mobile) built with Flutter. |
-| [soheil_map](https://github.com/moradzadeh67/soheil_map) | Location finder app using map and API integration. |
-| [instagram_ui](https://github.com/moradzadeh67/instagram_ui) | Instagram-inspired UI implementation focused on layout and design. |
-
----
-
-## Contact
-
-- **Email:** [moradzade.mohamadreza@gmail.com](mailto:moradzade.mohamadreza@gmail.com)
-- **LinkedIn:** [moradzadeh-mohammadreza](https://www.linkedin.com/in/moradzadeh-mohammadreza-a561747b)
+**Contact:** moradzade.mohamadreza@gmail.com · [LinkedIn](https://www.linkedin.com/in/moradzadeh-mohammadreza-a561747b)
